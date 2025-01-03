@@ -15,7 +15,6 @@ A fun and interactive **Quiz Application** developed using **Java** for Android.
 ## Technologies Used 🛠️
 - **Language**: Java
 - **Framework**: Android SDK
-- **Database**: SQLite or JSON (if used for storing quiz data)
 
 ## Getting Started 🚀
 Follow these instructions to get a copy of the project up and running on your local machine.
